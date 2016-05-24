@@ -51,7 +51,7 @@ Distributed as-is; no warranty is given.
 ////////////////////////////////
 // MAX17043 7-Bit I2C Address //
 ////////////////////////////////
-#define MAX17043_ADDRESS  0x36
+#define MAX17043_ADDRESS  0x60
 
 MAX17043::MAX17043()
 {
